@@ -1,0 +1,73 @@
+/* Set a background color for the entire page */
+body {
+	background-color: #f9c74f;
+  }
+  
+  /* Style the heading */
+  h1 {
+	color: #14213d;
+	text-align: center;
+  }
+  
+  /* Style the form */
+  form {
+	margin-top: 20px;
+	text-align: center;
+  }
+  
+  /* Style the input field */
+  input[type="text"] {
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	font-size: 16px;
+	width: 60%;
+	margin-right: 10px;
+	background-color: #f4a261;
+	color: #14213d;
+  }
+  
+  /* Style the Add button */
+  #add-task-button {
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	font-size: 16px;
+	background-color: #e76f51;
+	color: #fff;
+	cursor: pointer;
+  }
+  
+  /* Style the unordered list */
+  ul {
+	list-style-type: none;
+	margin-top: 20px;
+	padding: 0;
+	text-align: center;
+  }
+  
+  /* Style the list items */
+  li {
+	margin-bottom: 10px;
+	background-color: #2a9d8f;
+	color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+  }
+  
+  /* Style the checkbox */
+  input[type="checkbox"] {
+	margin-right: 10px;
+  }
+  
+  /* Style the delete button */
+  button {
+	border: none;
+	background-color: #e63946;
+	color: #fff;
+	padding: 5px 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	float: right;
+  }
+  
